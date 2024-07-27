@@ -6,6 +6,7 @@
 
 Uhhh I code
 Hmmm Python, C#, and some C++
+and now Java too
 
 <!---
 aquax64/aquax64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
